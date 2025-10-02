@@ -28,12 +28,5 @@ This is my personal portfolio website built with **HTML** and **CSS**, designed 
 
 That’s it 🎉 — no additional setup required!
 
-## 📂 Project Structure
-
-portfolio/
-│── index.html        # Main portfolio file
-│── style.css         # Stylesheet
-│── img/              # Images (profile picture, icons, logos, etc.)
-│── cv/               # CV in PDF format
 
 
