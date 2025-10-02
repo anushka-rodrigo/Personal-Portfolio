@@ -21,9 +21,9 @@ This is my personal portfolio website built with **HTML** and **CSS**, designed 
    git clone https://github.com/anushka-rodrigo/portfolio.git
    ```
 2. Navigate into the project folder:
-  ```bash
-  cd portfolio
-  ```
+    ```bash
+    cd portfolio
+    ```
 3. Open index.html in your browser.
 
 That’s it 🎉 — no additional setup required!
